@@ -892,7 +892,7 @@ const HomeContent = () => {
                             Together lets LEARN
                           </h3>
                           <a
-                            href="/resources"
+                            href="https://z444-web.vercel.app/AwarenessPrograms"
                             target="_blank"
                             className="new-content_link w-inline-block"
                           >
