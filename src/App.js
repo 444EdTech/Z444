@@ -77,6 +77,8 @@ function App() {
 
               <Route path = "/ContactUs" element={<ContactUs />} />
 
+              <Route path = "/Monitor" element={<ContactUs />} />
+
             </Routes>
 
             <Footer />

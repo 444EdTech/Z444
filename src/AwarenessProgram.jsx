@@ -1,3 +1,4 @@
+import z444logo from './images/z444.png'
 const AwarenessPrograms = () => {
     return (
         <>
@@ -9,7 +10,7 @@ const AwarenessPrograms = () => {
                             <div className="uui-text-align-center">
                                 <div className="uui-max-width-xlarge">
                                     <img
-                                        src="https://cdn.prod.website-files.com/63a49822ee2304acc9455a42/63c163913d28d9313652e7a4_Group%205362%20(1).avif"
+                                        src={z444logo}
                                         loading="lazy"
                                         alt=""
                                         className="image-5"

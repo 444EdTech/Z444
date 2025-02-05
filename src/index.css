@@ -24422,8 +24422,8 @@ figcaption {
 
 
 .leaders-list {
-  grid-column-gap: 1.5rem;
-  grid-row-gap: 1.5rem;
+  grid-column-gap: 1rem;
+  grid-row-gap: 1rem;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(208px, 1fr));
   /* Adjusts to fit images */
@@ -56179,3 +56179,7 @@ body .clear-dev>.layout349_block {
       display: none;
   }
 }
+
+
+
+

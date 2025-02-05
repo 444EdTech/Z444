@@ -201,6 +201,9 @@ const NavbarActions = () => {
                 <a href="/Awarenessprograms" target="_blank" className="navbar5_link">
                   Awareness Programs
                 </a>
+                <a href="/Monitor" target="_blank" className="navbar5_link">
+                  Monitor
+                </a>
                 <a
                   href="/ContactUs"
                   target="_blank"

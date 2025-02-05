@@ -1,3 +1,4 @@
+import z444logo from './images/z444.png'
 const Community = () => {
     return (
         <div className="page-sections">
@@ -10,7 +11,7 @@ const Community = () => {
                                 <div className="uui-text-align-center">
                                     <div className="uui-max-width-xlarge">
                                         <img
-                                            src="file:///D:/SAI%20DT/Z444/Z444/images/z444.png"
+                                            src={z444logo}
                                             loading="lazy"
                                             alt=""
                                             className="image-5"
